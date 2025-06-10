@@ -1,5 +1,4 @@
 # Fnbwk1
-FNB App Academy Week 1
 # 🚀 My Beginner Web Dev Journey: HTML & CSS
 
 This is where my learning begins. I'm diving into how to build apps using **HTML**, and then making them look good with **CSS**. The idea is to start from scratch, really understand the basics, and come out of it with **two complete apps** that I built entirely on my own.
